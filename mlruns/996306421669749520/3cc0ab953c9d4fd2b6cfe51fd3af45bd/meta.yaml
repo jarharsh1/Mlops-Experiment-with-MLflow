@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/996306421669749520/3cc0ab953c9d4fd2b6cfe51fd3af45bd/artifacts
+end_time: 1746874522963
+entry_point_name: ''
+experiment_id: '996306421669749520'
+lifecycle_stage: active
+run_id: 3cc0ab953c9d4fd2b6cfe51fd3af45bd
+run_name: hilarious-frog-750
+run_uuid: 3cc0ab953c9d4fd2b6cfe51fd3af45bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746874522896
+status: 3
+tags: []
+user_id: harsh.raj

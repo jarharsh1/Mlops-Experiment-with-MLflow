@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/996306421669749520/8e8a2f76097b4ba7afa66b154ebbd64b/artifacts
+end_time: 1746874527378
+entry_point_name: ''
+experiment_id: '996306421669749520'
+lifecycle_stage: active
+run_id: 8e8a2f76097b4ba7afa66b154ebbd64b
+run_name: capable-bee-73
+run_uuid: 8e8a2f76097b4ba7afa66b154ebbd64b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746874519393
+status: 3
+tags: []
+user_id: harsh.raj

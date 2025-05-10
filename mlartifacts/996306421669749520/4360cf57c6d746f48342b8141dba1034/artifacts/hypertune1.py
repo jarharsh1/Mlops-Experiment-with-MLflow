@@ -23,7 +23,7 @@ rf = RandomForestClassifier(random_state=42)
 # Defining the parameter grid for GridSearchCV
 param_grid = {
     'n_estimators': [10, 50, 100],
-    'max_depth': [None, 10,20]
+    'max_depth': [None, 10]
 }
 
 # Applying GridSearchCV
@@ -43,17 +43,17 @@ grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=2, n_jobs=-1,
 
 mlflow.set_experiment('breast-cancer-rf-hp')
 
-with mlflow.start_run() as parent:
+with mlflow.start_run():
     grid_search.fit(X_train, y_train)
 
-    # log all the child runs
-    for i in range(len(grid_search.cv_results_['params'])):
+#     # log all the child runs
+#     for i in range(len(grid_search.cv_results_['params'])):
 
-        with mlflow.start_run(nested=True) as child:
-            mlflow.log_params(grid_search.cv_results_["params"][i])
-            mlflow.log_metric("accuracy", grid_search.cv_results_["mean_test_score"][i])
+#         with mlflow.start_run(nested=True) as child:
+#             mlflow.log_params(grid_search.cv_results_["params"][i])
+#             mlflow.log_metric("accuracy", grid_search.cv_results_["mean_test_score"][i])
 
-        # Displaying the best parameters and the best score
+#     # Displaying the best parameters and the best score
     best_params = grid_search.best_params_
     best_score = grid_search.best_score_
 

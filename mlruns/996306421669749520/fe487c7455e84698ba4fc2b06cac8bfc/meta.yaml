@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/996306421669749520/fe487c7455e84698ba4fc2b06cac8bfc/artifacts
+end_time: 1746874522867
+entry_point_name: ''
+experiment_id: '996306421669749520'
+lifecycle_stage: active
+run_id: fe487c7455e84698ba4fc2b06cac8bfc
+run_name: illustrious-gnat-896
+run_uuid: fe487c7455e84698ba4fc2b06cac8bfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746874522805
+status: 3
+tags: []
+user_id: harsh.raj

@@ -4,10 +4,14 @@ from sklearn.model_selection import train_test_split
 from sklearn.datasets import load_breast_cancer
 import pandas as pd
 import mlflow
+import dagshub
 
 ## set tracking mlflow uri
-# mlflow.set_tracking_uri("https://dagshub.com/jarharsh1/Mlops-Experiment-with-MLflow.mlflow")
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
+mlflow.set_tracking_uri("https://dagshub.com/jarharsh1/Mlops-Experiment-with-MLflow.mlflow")
+# mlflow.set_tracking_uri("http://127.0.0.1:5000")
+
+## enter dagshub
+dagshub.init(repo_owner='jarharsh1', repo_name='Mlops-Experiment-with-MLflow', mlflow=True)
 
 # Load the Breast Cancer dataset
 data = load_breast_cancer()
