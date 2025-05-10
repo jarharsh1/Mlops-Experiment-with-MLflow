@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e07a1fa8143f4765b15c4c7b58e02585/artifacts
+end_time: 1746865480570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e07a1fa8143f4765b15c4c7b58e02585
+run_name: treasured-grouse-876
+run_uuid: e07a1fa8143f4765b15c4c7b58e02585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746865480035
+status: 4
+tags: []
+user_id: harsh.raj

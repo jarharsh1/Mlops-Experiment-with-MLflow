@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/760303611326921657/c598df39742a4a158e28aa90774ddac7/artifacts
+end_time: 1746868083385
+entry_point_name: ''
+experiment_id: '760303611326921657'
+lifecycle_stage: active
+run_id: c598df39742a4a158e28aa90774ddac7
+run_name: puzzled-hog-818
+run_uuid: c598df39742a4a158e28aa90774ddac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746868083084
+status: 3
+tags: []
+user_id: harsh.raj

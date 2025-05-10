@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/760303611326921657/4d1978e810054cc5bc2bae4f6624af17/artifacts
+end_time: 1746868654567
+entry_point_name: ''
+experiment_id: '760303611326921657'
+lifecycle_stage: active
+run_id: 4d1978e810054cc5bc2bae4f6624af17
+run_name: languid-wren-889
+run_uuid: 4d1978e810054cc5bc2bae4f6624af17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746868654280
+status: 3
+tags: []
+user_id: harsh.raj

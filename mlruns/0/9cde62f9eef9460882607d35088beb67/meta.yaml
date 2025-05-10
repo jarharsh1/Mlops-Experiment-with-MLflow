@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9cde62f9eef9460882607d35088beb67/artifacts
+end_time: 1746865939680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cde62f9eef9460882607d35088beb67
+run_name: legendary-worm-424
+run_uuid: 9cde62f9eef9460882607d35088beb67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746865939372
+status: 3
+tags: []
+user_id: harsh.raj

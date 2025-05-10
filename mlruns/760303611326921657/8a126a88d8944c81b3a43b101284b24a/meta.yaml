@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/760303611326921657/8a126a88d8944c81b3a43b101284b24a/artifacts
+end_time: 1746869053682
+entry_point_name: ''
+experiment_id: '760303611326921657'
+lifecycle_stage: active
+run_id: 8a126a88d8944c81b3a43b101284b24a
+run_name: sincere-mule-412
+run_uuid: 8a126a88d8944c81b3a43b101284b24a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746869053376
+status: 4
+tags: []
+user_id: harsh.raj

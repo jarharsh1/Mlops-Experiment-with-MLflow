@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aae4a397dd48416098003f2bde66aeec/artifacts
+end_time: 1746864619468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aae4a397dd48416098003f2bde66aeec
+run_name: fearless-bass-391
+run_uuid: aae4a397dd48416098003f2bde66aeec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746864619432
+status: 3
+tags: []
+user_id: harsh.raj

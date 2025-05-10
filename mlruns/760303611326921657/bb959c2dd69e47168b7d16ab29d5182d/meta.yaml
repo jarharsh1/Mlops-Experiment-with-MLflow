@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/760303611326921657/bb959c2dd69e47168b7d16ab29d5182d/artifacts
+end_time: 1746869125803
+entry_point_name: ''
+experiment_id: '760303611326921657'
+lifecycle_stage: active
+run_id: bb959c2dd69e47168b7d16ab29d5182d
+run_name: loud-yak-498
+run_uuid: bb959c2dd69e47168b7d16ab29d5182d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746869122213
+status: 3
+tags: []
+user_id: harsh.raj
